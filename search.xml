@@ -4,9 +4,10 @@
     
     <entry>
       <title><![CDATA[TOC]]></title>
-      <url>/2017/12/27/TOC/</url>
+      <url>/hexo/public/2017/12/27/TOC/</url>
       <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <p="">[TOC]<p></p>
-<h1 id="Section-1"><a href="/2017/12/27/TOC/#Section-1" class="headerlink" title="Section 1"></a>Section 1</h1><h2 id="Sub-section-1"><a href="/2017/12/27/TOC/#Sub-section-1" class="headerlink" title="Sub-section 1"></a>Sub-section 1</h2><h1 id="Section-2"><a href="/2017/12/27/TOC/#Section-2" class="headerlink" title="Section 2"></a>Section 2</h1></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+<h1 id="Section-1"><a href="/hexo/public/2017/12/27/TOC/#Section-1" class="headerlink" title="Section 1"></a>Section 1</h1><h2 id="Sub-section-1"><a href="/hexo/public/2017/12/27/TOC/#Sub-section-1" class="headerlink" title="Sub-section 1"></a>Sub-section 1</h2><h1 id="Section-2"><a href="/hexo/public/2017/12/27/TOC/#Section-2" class="headerlink" title="Section 2"></a>Section 2</h1><p>hello <a href="http://localhost/hexo/2017/12/27/TOC/">http://localhost/hexo/2017/12/27/TOC/</a> bye</p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
         };
@@ -19,8 +20,8 @@
     
     <entry>
       <title><![CDATA[Timeline]]></title>
-      <url>/2017/12/27/Timeline/</url>
-      <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <h6="" id="My-Timeline"><a href="/2017/12/27/Timeline/#My-Timeline" class="headerlink" title="My Timeline"></a>My Timeline<ul>
+      <url>/hexo/public/2017/12/27/Timeline/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <h6="" id="My-Timeline"><a href="/hexo/public/2017/12/27/Timeline/#My-Timeline" class="headerlink" title="My Timeline"></a>My Timeline<ul>
 <li>Home<ul>
 <li>Holidays</li>
 <li>Others</li>
@@ -40,7 +41,7 @@
 </ul>
 <hr>
 <ul>
-<li><h4 id="Promotion-Boards"><a href="/2017/12/27/Timeline/#Promotion-Boards" class="headerlink" title="Promotion Boards"></a><strong>Promotion Boards</strong></h4><ul>
+<li><h4 id="Promotion-Boards"><a href="/hexo/public/2017/12/27/Timeline/#Promotion-Boards" class="headerlink" title="Promotion Boards"></a><strong>Promotion Boards</strong></h4><ul>
 <li>15ENE - 16FEB Trabajos Juntas -Pozuelo,  </li>
 <li>16FEB - 03MAR 15 dias naturales alegaciones, no recursos.  </li>
 <li>5-9 MAR Resolucion Alegaciones -CGET,  </li>
@@ -49,6 +50,7 @@
 </ul>
 </li>
 </ul>
+<p>hello <a href="http://localhost/hexo/2017/12/27/Timeline/">http://localhost/hexo/2017/12/27/Timeline/</a> bye</p>
 </div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
@@ -68,7 +70,7 @@
     
     <entry>
       <title><![CDATA[Markdown Test]]></title>
-      <url>/2017/12/26/Markdown-Test/</url>
+      <url>/hexo/public/2017/12/26/Markdown-Test/</url>
       <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <p=""><strong>ASUNTO: </strong>Propuesta de Decisión de Destinos de Suboficiales Mayores<br>(LD)<p></p>
 <p>pandoc -f odt -t markdown 161010_Propuesta_Criterios_Destinos_SBMYs.odt</p>
 <p>Fecha: Octubre de 2016</p>
@@ -81,7 +83,7 @@
 <p>SITUACIÓN ACTUAL</p>
 <p>La COMASE de la ref. C, convocada el pasado 25 de agosto del presente<br>estableció el inicio del nuevo procedimiento de asignación de destinos<br>(LD) para Suboficiales Mayores.</p>
 <p>El nuevo procedimiento ha supuesto una innegable mejora en la asignación<br>de los destinos de los SBMYs, siendo de los clasificados y regulados<br>bajo <strong>Libre Designación. </strong></p>
-<p>De la revisión del proceso , se detallan a continuación ajustes que<br>pudieren observarse e introducirse en posteriores procesos de asignación<br>al objeto de optimizar su completa implementación, con una llamada de<br>atención a la generación de vacantes de SBMY en la posterior publicación<br>ordinaria, por considerarse este, un factor de interés en la gestión<br>optima del proceso<sup id="fnref:1"><a href="/2017/12/26/Markdown-Test/#fn:1" rel="footnote">1</a></sup>.</p>
+<p>De la revisión del proceso , se detallan a continuación ajustes que<br>pudieren observarse e introducirse en posteriores procesos de asignación<br>al objeto de optimizar su completa implementación, con una llamada de<br>atención a la generación de vacantes de SBMY en la posterior publicación<br>ordinaria, por considerarse este, un factor de interés en la gestión<br>optima del proceso<sup id="fnref:1"><a href="/hexo/public/2017/12/26/Markdown-Test/#fn:1" rel="footnote">1</a></sup>.</p>
 <p>Proceso de asignación:</p>
 <ul>
 <li><p>Proceso general de asignación de destinos en COMASE,</p>
@@ -127,6 +129,7 @@
 <hr>
 <p>a)  Valoración de cursos -en determinadas unidades-.</p>
 <p>Valoración de cursos exigido en la Relación de Puestos Militares para el<br>puesto específico.</p>
+<p>hello <a href="http://localhost/hexo/2017/12/26/Markdown-Test/">http://localhost/hexo/2017/12/26/Markdown-Test/</a> bye</p>
 </div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
@@ -146,16 +149,17 @@
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>/2017/12/24/hello-world/</url>
+      <url>/hexo/public/2017/12/24/hello-world/</url>
       <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <p="">Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<p></p>
-<h2 id="Quick-Start"><a href="/2017/12/24/hello-world/#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="/2017/12/24/hello-world/#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<h2 id="Quick-Start"><a href="/hexo/public/2017/12/24/hello-world/#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="/hexo/public/2017/12/24/hello-world/#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="/2017/12/24/hello-world/#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<h3 id="Run-server"><a href="/hexo/public/2017/12/24/hello-world/#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="/2017/12/24/hello-world/#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<h3 id="Generate-static-files"><a href="/hexo/public/2017/12/24/hello-world/#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="/2017/12/24/hello-world/#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<h3 id="Deploy-to-remote-sites"><a href="/hexo/public/2017/12/24/hello-world/#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<p>hello <a href="http://localhost/hexo/2017/12/24/hello-world/">http://localhost/hexo/2017/12/24/hello-world/</a> bye</p>
 </div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
@@ -169,7 +173,7 @@
     
     <entry>
       <title><![CDATA[pdf]]></title>
-      <url>/2017/12/24/pdf/</url>
+      <url>/hexo/public/2017/12/24/pdf/</url>
       <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <h4="" id="Mardown-cheatsheet-Pdf"><a href="#Mardown-cheatsheet-Pdf" class="headerlink" title="Mardown cheatsheet Pdf"></a>Mardown cheatsheet Pdf
 
 	<div class="row">
@@ -207,14 +211,16 @@
     
     <entry>
       <title><![CDATA[Hexo Markdown Language]]></title>
-      <url>/2017/12/24/Hexo-Asset-Folder/</url>
-      <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <h5="" id="Hexo-Asset-Folder-configuration"><a href="/2017/12/24/Hexo-Asset-Folder/#Hexo-Asset-Folder-configuration" class="headerlink" title="Hexo Asset Folder configuration"></a>Hexo Asset Folder configuration
+      <url>/hexo/public/2017/12/24/Hexo-Asset-Folder/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <h5="" id="Hexo-Asset-Folder-configuration"><a href="/hexo/public/2017/12/24/Hexo-Asset-Folder/#Hexo-Asset-Folder-configuration" class="headerlink" title="Hexo Asset Folder configuration"></a>Hexo Asset Folder configuration
 
 	<div class="row">
     <embed src="./markdown-cheatsheet-online.pdf" width="100%" height="550" type="application/pdf">
 	</div>
 
 
+
+<p>hello <a href="http://localhost/hexo/2017/12/24/Hexo-Asset-Folder/">http://localhost/hexo/2017/12/24/Hexo-Asset-Folder/</a> bye</p>
 </div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
@@ -228,7 +234,7 @@
     
     <entry>
       <title><![CDATA[My Gallery]]></title>
-      <url>/2017/12/23/My-Gallery/</url>
+      <url>/hexo/public/2017/12/23/My-Gallery/</url>
       <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <p="">blah<p></p>
 </div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
@@ -255,7 +261,7 @@
     
     <entry>
       <title><![CDATA[Markdown Language]]></title>
-      <url>/2017/12/23/Markdown-Language/</url>
+      <url>/hexo/public/2017/12/23/Markdown-Language/</url>
       <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <ul="">
 <li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank" rel="noopener">https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a></li>
 
@@ -282,6 +288,7 @@
 </tbody>
 </table>
 <hr>
+<p>hello <a href="http://localhost/hexo/2017/12/23/Markdown-Language/">http://localhost/hexo/2017/12/23/Markdown-Language/</a> bye</p>
 </div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
@@ -301,16 +308,17 @@
     
     <entry>
       <title><![CDATA[Projects]]></title>
-      <url>/2017/12/23/Projects/</url>
+      <url>/hexo/public/2017/12/23/Projects/</url>
       <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <p="">This is a summary of the post.<br><a id="more"></a><p></p>
-<h2 id="Hello-there"><a href="/2017/12/23/Projects/#Hello-there" class="headerlink" title="Hello there"></a>Hello there</h2><p>This is some content.</p>
-<h4 id="Pending-Projects"><a href="/2017/12/23/Projects/#Pending-Projects" class="headerlink" title="Pending Projects:"></a>Pending Projects:</h4><ul>
+<h2 id="Hello-there"><a href="/hexo/public/2017/12/23/Projects/#Hello-there" class="headerlink" title="Hello there"></a>Hello there</h2><p>This is some content.</p>
+<h4 id="Pending-Projects"><a href="/hexo/public/2017/12/23/Projects/#Pending-Projects" class="headerlink" title="Pending Projects:"></a>Pending Projects:</h4><ul>
 <li>Linux</li>
 <li>Raspberry</li>
 </ul>
 <ul>
 <li>Homeassistant </li>
 </ul>
+<p>hello <a href="http://localhost/hexo/2017/12/23/Projects/">http://localhost/hexo/2017/12/23/Projects/</a> bye</p>
 </div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
@@ -330,8 +338,8 @@
     
     <entry>
       <title><![CDATA[Links to ...]]></title>
-      <url>/2017/12/22/Links-to/</url>
-      <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <h6="" id="The-best-links-related-to-Hexo-Blooging-…"><a href="/2017/12/22/Links-to/#The-best-links-related-to-Hexo-Blooging-…" class="headerlink" title="The best links related to Hexo Blooging …"></a>The best links related to Hexo Blooging …<ul>
+      <url>/hexo/public/2017/12/22/Links-to/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <h6="" id="The-best-links-related-to-Hexo-Blooging-…"><a href="/hexo/public/2017/12/22/Links-to/#The-best-links-related-to-Hexo-Blooging-…" class="headerlink" title="The best links related to Hexo Blooging …"></a>The best links related to Hexo Blooging …<ul>
 <li><a href="https://www.julianrobinson.nz/blog/hello-world-starting-a-blog-with-hexo/" target="_blank" rel="noopener">https://www.julianrobinson.nz/blog/hello-world-starting-a-blog-with-hexo/</a></li>
 <li><a href="https://github.com/hexojs/awesome-hexo" target="_blank" rel="noopener">https://github.com/hexojs/awesome-hexo</a></li>
 <li><a href="https://blog.predovan.com/2017/02/14/How-to-create-your-own-Hexo-blog/" target="_blank" rel="noopener">https://blog.predovan.com/2017/02/14/How-to-create-your-own-Hexo-blog/</a></li>
@@ -343,6 +351,7 @@
 <li><a href="http://www.giraffeacademy.com/static-site-generators/hexo/" target="_blank" rel="noopener">Hexo Tutorials</a></li>
 </ul>
 <hr>
+<p>hello <a href="http://localhost/hexo/2017/12/22/Links-to/">http://localhost/hexo/2017/12/22/Links-to/</a> bye</p>
 </div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
@@ -370,16 +379,26 @@
     
     <entry>
       <title><![CDATA[Miguel Castillo's first-post]]></title>
-      <url>/2017/12/22/first-post/</url>
-      <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <h3="" id="Mardown-goes-here"><a href="/2017/12/22/first-post/#Mardown-goes-here" class="headerlink" title="Mardown goes here"></a>Mardown goes here<p><strong> This is our first post!</strong></p>
+      <url>/hexo/public/2017/12/22/first-post/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css"><div class=".article-gallery" <h3="" id="Mardown-goes-here"><a href="/hexo/public/2017/12/22/first-post/#Mardown-goes-here" class="headerlink" title="Mardown goes here"></a>Mardown goes here<p><strong> This is our first post!</strong></p>
 <ul>
 <li>Hello world1</li>
 <li>Hello world2</li>
 </ul>
-<p><a href="/2017/12/22/first-post//images/avatar.jpg" title="I love it when a plan comes together." class="gallery-item"><figure class="banner" style="width:undefinedpx; height:undefinedpx;margin: 0 auto;">
+<p><a href="/hexo/public/2017/12/22/first-post//images/avatar.jpg" title="I love it when a plan comes together." class="gallery-item"><figure class="banner" style="width:undefinedpx; height:undefinedpx;margin: 0 auto;">
       <img src="/medium-image-plugin/thumbnailsundefined" alt="I love it when a plan comes together." class="img-small" data-large="/imgundefined">
       </figure></a></p>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+<p><a href="/hexo/public/2017/12/22/first-post//images/avatar.jpg" title="img caption" class="gallery-item"><figure class="banner" style="width:undefinedpx; height:undefinedpx;margin: 0 auto;">
+      <img src="/medium-image-plugin/thumbnailsundefined" alt="img caption" class="img-small" data-large="/imgundefined">
+      </figure></a></p>
+<p><a href="/hexo/public/2017/12/22/first-post/img url" title="img caption" class="gallery-item"><figure class="banner" style="width:undefinedpx; height:undefinedpx;margin: 0 auto;">
+      <img src="/medium-image-plugin/thumbnailsundefined" alt="img caption" class="img-small" data-large="/imgundefined">
+      </figure></a></p>
+<a class="fancybox" href="/images/avatar.jpg" title="[img_thumbnail] [img_caption]"><a href="/hexo/public/2017/12/22/first-post//images/avatar.jpg" title="[img_thumbnail] [img_caption]" class="gallery-item"><figure class="banner" style="width:undefinedpx; height:undefinedpx;margin: 0 auto;">
+      <img src="/medium-image-plugin/thumbnailsundefined" alt="[img_thumbnail] [img_caption]" class="img-small" data-large="/imgundefined">
+      </figure></a>
+<p>hello <a href="http://localhost/hexo/2017/12/22/first-post/">http://localhost/hexo/2017/12/22/first-post/</a> bye</p>
+</a></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
         };
